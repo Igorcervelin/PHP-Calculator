@@ -1,0 +1,20 @@
+body {
+    background: #CECECE;
+}
+
+header {
+    background: #e7672c;
+    text-align: center;
+}
+
+aside {
+    background: rgb(245, 188, 32);
+}
+
+section {
+    padding: 20px 0 0 0;
+}
+
+footer {
+    background: rgb(255, 252, 67);
+}
